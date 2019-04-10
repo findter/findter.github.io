@@ -1,7 +1,7 @@
 
 # Boostrap 4 Github Pages
 
-[![Build Status](https://travis-ci.org/findter/findter.github.io.svg?branch=master)](https://travis-ci.org/findter/findter.github.io)
+[![Build Status](https://travis-ci.org/findter/findter.github.io.svg?branch=release)](https://travis-ci.org/findter/findter.github.io)
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
@@ -14,8 +14,8 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 
 ## Contribution
 
-[See the contribution guide.](./CONTRIBUTING)
+[See the contribution guide.](./CONTRIBUTING.md)
 
 ## License
 
-[See the license file.](./LICENSE)
+[See the license file.](./LICENSE.md)
