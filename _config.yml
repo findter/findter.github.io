@@ -26,8 +26,9 @@ repository: "findter/findter.github.io"
 
 # Build settings
 plugins:
+  # - jekyll-sitemap
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # A list of the pages to display in the navigation bar
 header_pages:
@@ -42,3 +43,10 @@ exclude:
   - update_boostrap.sh
 
 show_excerpts: true
+
+plugins_dir: ./_plugins
+
+jekyll_get:
+  - data: github
+    json: 'https://api.github.com/users/findter/repos'
+    cache: false
