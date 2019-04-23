@@ -1,5 +1,5 @@
 
-# Boostrap 4 Github Pages
+# Bootstrap 4 Github Pages
 
 [![Build Status](https://travis-ci.org/findter/findter.github.io.svg?branch=release)](https://travis-ci.org/findter/findter.github.io)
 
@@ -10,7 +10,7 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
-[See the website for demonstration and documentation](https://findter.github.io/).
+[See the website for demonstration.](https://findter.github.io/)
 
 ## Contribution
 
